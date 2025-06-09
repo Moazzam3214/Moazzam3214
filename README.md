@@ -15,8 +15,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
@@ -55,14 +53,13 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/Moazzam3214/Moazzam3214/output/snake.svg" alt="Snake animation" />
+
+###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moazzam3214/Moazzam3214/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Moazzam3214/Moazzam3214/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Moazzam3214/Moazzam3214/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
-<img src="https://raw.githubusercontent.com/Moazzam3214/Moazzam3214/output/snake.svg" alt="Snake animation" />
-
-###
